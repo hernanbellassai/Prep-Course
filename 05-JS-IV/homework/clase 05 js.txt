@@ -1,0 +1,8 @@
+objetos: nos dan la posbilidad de poner propiedades con nombres asociados a un valor,
+para si escribir un codigo mas facil.
+una propiedad es la asociacion entre un nombre o clave que tiene un valor.
+un metodo es una funcion que se guarda dentro de un objeto.
+los bucles son utilizados para hacer tareas repetitivas, sigen en ejecucion mientras la condicion siga devolviendo verdadero
+los corchetes no permiten almacenar mas objetos dentro de la variable ,la notacion del punto nos permite entrar en cada nivel del objeto 
+
+

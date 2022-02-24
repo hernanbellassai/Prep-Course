@@ -1,0 +1,7 @@
+ el termino for se utiliza para repetir instrucciones  dentro de una funcion(un bucle)
+
+y = && se utiliza cuando unicamente queremos que el codigo corra cuando ambas son verdaderas!!
+
+o = || con que una de las expreciones sea verdadera cuanta para que corra cuando las dos son falsas unicamente es false 
+
+no = ! se utiliza para devolver lo contrario al valor que le pasamos ejemplo !true = fase.... !false = true ..

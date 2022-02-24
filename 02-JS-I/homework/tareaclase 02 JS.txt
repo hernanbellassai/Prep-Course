@@ -1,0 +1,13 @@
+las variables serian como un contenedor o una caja con una etiqueta ej frutas,
+ en la cual podemos acumula adentro de esa caja diferentes tipos de frutas!
+
+un string es una cadena de texto. 
+
+una funcion es un conjunto de instrucciones para generar determinada tarea.
+
+declaraciones son los nombres que le damos a las variables a ejecutar
+
+los valores booleanos se utilizan para que dependiendo de lo que uno quiera programar o ejecutar se ejecute si cumple sierta estructura y que si no lo cumple No se ejecute (verdadero Falso)  
+
+
+ 

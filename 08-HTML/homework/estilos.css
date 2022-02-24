@@ -1,0 +1,43 @@
+body{
+    background: url(milanesa.jpg);
+    background-size: 100%;
+ 
+}
+
+h1{
+    color :white
+}
+ img{
+     size: 400px;
+ }
+  a{
+      color: bisque;
+  }
+  span{
+      color: azure;
+      text-align: center;
+  }
+ .thirdDiv{
+  height: 600px;
+  width: 500px;
+  background-color: white;
+  padding: 50px;
+  border-color: black;
+  border
+ }
+ .spanId{
+     margin: 50px;
+
+ }
+ .divClass{
+     color: white;
+     text-align: center;
+
+ }
+ .mila1{
+    max-width: 400px;
+ }
+ .mila2{
+    max-width: 400px;
+ }
+ 

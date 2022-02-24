@@ -1,0 +1,2 @@
+un array es justamente como dice su nombre un arreglo donde nosotros podemos cambiar subir agregar cosas ! 
+(son como planillas almacenadas a donde podemos acceder a la informacion del mismo tipo).
